@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```
-
+git clone https://github.com/chujie-zhang/DeepRegRepdMRI.git
 ```
 2. The framework is tested on machines with the following environment:
 - Python >= 3.6
